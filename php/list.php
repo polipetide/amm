@@ -6,7 +6,6 @@
  
     switch($sc){
         case 'fio': 
-            //$query = "SELECT * FROM computer WHERE monitor=0 ORDER BY code ASC";
             $query = "SELECT * FROM prodotto WHERE Tipo LIKE 'Fiore'";
             $result = $mysqli->query($query);
             $type = 'Fiore';
