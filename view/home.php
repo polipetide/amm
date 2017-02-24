@@ -26,12 +26,12 @@
 <section class="text-art"> <!-- descrizione articolo -->
 	<p><b>Perch&eacute; scegliere "A Fiori"?</b></p>
 	<p>
-	<-Provvederemo a farti avere i nostri prodotti perfetti, come appena colti!
+	Provvederemo a farti avere i nostri prodotti perfetti, come appena colti!
 	Ci teniamo che voi abbiate la merce migliore che possiate acquistare. Il cliente sa in che fase si trova ogni suo articolo, quando sar&agrave; 
-	   recapitato e viene avvertito di ogni minima modifica che potrebbe avvenire all'ordine effettuato!<br>->
+	   recapitato e viene avvertito di ogni minima modifica che potrebbe avvenire all'ordine effettuato!<br>
 
-	   <-A Fiori sta dalla parte del cliente! Con oltre 300 articoli venduti ogni mese e un rating 99.5% nei maggiori siti di opinioni,
-	   Fiori e Piante fa della qualit&agrave; il suo maggior vanto.->
+	   A Fiori sta dalla parte del cliente! Con oltre 300 articoli venduti ogni mese e un rating 99.5% nei maggiori siti di opinioni,
+	   Fiori e Piante fa della qualit&agrave; il suo maggior vanto.
 	</p><br>
 	
 	<p><b>&Egrave; un sito sicuro?</b></p>
