@@ -3,10 +3,8 @@
 	session_start();
     $ip =  "localhost";
     $user = "melisMarta";
-    $user = "root";
     $password = "anatra176";
     $db = "amm14_melisMarta";
-    $db = "fiori";
     $mysqli = new mysqli();
     $mysqli->connect($ip, $user, $password, $db);
     
