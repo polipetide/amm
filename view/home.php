@@ -4,7 +4,7 @@
 			
 <div> <!-- articolo-->
 	<?php				
-		$query = "SELECT * FROM Prodotto LIMIT 3";
+		$query = "SELECT * FROM Prodotto WHERE id_p = 1";
 		$result = $mysqli->query($query);
 		
 		while($row = $result->fetch_row())
